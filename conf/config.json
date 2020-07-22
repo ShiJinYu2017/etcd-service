@@ -1,0 +1,8 @@
+{
+  "Endpoints":["127.0.0.1:2379"],
+  "Namespace": "test",
+  "DialTimeout": 5000,
+  "RequestTimeout": 2000,
+  "Username": "writer",
+  "PassWord": "123456"
+}
